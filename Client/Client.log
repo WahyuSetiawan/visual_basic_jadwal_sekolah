@@ -1,0 +1,5 @@
+Line 223: Class MSComctlLib.StatusBar of control StatusBar was not a loaded control class.
+Line 230: The property name _ExtentX in StatusBar is invalid.
+Line 231: The property name _ExtentY in StatusBar is invalid.
+Line 232: The property name _Version in StatusBar is invalid.
+Line 257: The property name Panels in StatusBar is invalid.
